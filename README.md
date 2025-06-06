@@ -26,6 +26,8 @@ A resposta será um JSON com:
 
 ## Como configurar e testar
 
+URL da função (https://6waurgqcjqijy6rcx5xfow5m4a0cvnza.lambda-url.us-east-1.on.aws/)
+
 ### 1. Verifique os e-mails no SES
 Se sua conta estiver no **modo sandbox**, você precisa **verificar tanto o remetente quanto o destinatário** ou você pode colocar o source e destination iguais.
 
